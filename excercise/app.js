@@ -65,7 +65,7 @@
 // cheff1.joinMasterCheff();
 // cheff2.cook();
 
-                                                /*excercise 3 */
+                                                /*excercise 3: Hungry for more*/
 
                                               /*Bank account constructor */
 class BankAccount{
